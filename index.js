@@ -1,3 +1,3 @@
 function Tamizha(){
-  consolee.log("Tamizha")
+  console.log("Tamizha")
 }
